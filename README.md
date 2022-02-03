@@ -29,7 +29,7 @@ Caso queira adicionar sua EFI neste repositório, abra um Pull Request com as al
 | Edemir Carvalho | Gigabyte B550M Aorus Elite | AMD R5 3600 | GALAX GeForce GTX 1060 OC 6GB GDDR5 192-bit | RealtekRTL8111 | iMac14,2 / MacPro7,1 | High Sierra / Superiores | 0.7.7 | [Download-1](https://drive.google.com/file/d/1-1HSy3H_vsBeSObsoLS3Vqhe12Q6pWi2/view?usp=sharing) [Download-2](https://www.4shared.com/s/fHUaWXVnhiq) |
 | [jeffersonraimon](https://github.com/jeffersonraimon) | Gigabyte B360 Aorus Gaming 3 (rev 1.0) | Intel i5 8400 | AMD RX 580 8Gb | Realtek ALC892 | iMac20,2 | Big Sur ou superiores | 0.7.6 | [Download](https://github.com/jeffersonraimon/Hackintosh-OpenCore-Coffe-Lake-B360M-RX-580) |
 | [valpersam](https://github.com/valpersam) | MACHINIST X99-RS9 | Intel Xeon E5-2670 v3, 2300 MHz (12C/24T) | Sapphire RX 460 Graphics (4 GB) | Realtek ALC662 | iMacPro1,1 | Big Sur ou superiores | 0.7.6 | [Download](https://github.com/valpersam/EFI-X99-MACHINIST-RS9-RX460) |
-| https://github.com/augstb | Gigabyte Z490 Vision G  | Intel i7-10700k | AMD Radeon RX 6800 XT GPU | Realtek ALC1220-VB | iMacPro1,1 | Monterey (12.1). | 0.7.7 | [Download](https://github.com/valpersam/EFI-X99-MACHINIST-RS9-RX460) |
+| [augstb](https://github.com/augstb) | Gigabyte Z490 Vision G  | Intel i7-10700k | AMD Radeon RX 6800 XT GPU | Realtek ALC1220-VB | iMacPro1,1 | Monterey (12.1). | 0.7.7 | [Download](https://github.com/valpersam/EFI-X99-MACHINIST-RS9-RX460) |
 
 #
 
