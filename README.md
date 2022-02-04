@@ -32,6 +32,8 @@ Caso queira adicionar sua EFI neste repositório, abra um Pull Request com as al
 | [augstb](https://github.com/augstb) | Gigabyte Z490 Vision G  | Intel i7-10700k | AMD Radeon RX 6800 XT GPU | Realtek ALC1220-VB | iMacPro1,1 | Monterey (12.1). | 0.7.7 | [Download](https://github.com/augstb/Hackintosh-Intel-i7-10700k-Gigabyte-Z490-Vision-G) |
 | [salsadal](https://github.com/salsadal) | Gigabyte Z590 Gaming X  | Intel i9-11900K ES QV1K, 3400 MHz (8C/16T) | Sapphire RX 6600 XT | Realtek ALC897 | iMac19,2 (nativo) / IMacPro1,1 (PROXMOX) | Monterey (12.2) | 0.7.7 | [Download](https://github.com/valpersam/EFI-X99-MACHINIST-RS9-RX460) |
 | [salsadal](https://github.com/salsadal) | Gigabyte Z370 Aorus Ultra Gaming   | Intel i7-8700K 3700 MHz (6C/12T) | Sapphire Radeon RX 580 | Realtek ALC1220 | iMac19,2 (nativo) / IMacPro1,1 (PROXMOX) | Monterey (12.1) | 0.7.7 | [Download](https://github.com/valpersam/EFI-X99-MACHINIST-RS9-RX460) |
+| [ramoncunha](https://github.com/ramoncunha) | Gigabyte Z390 M Gaming | Intel 9600K | ASUS RX 6600 XT 8GB | Realtek ALC892 codec | iMac19,1 | Monterey (12.1) | 0.7.7 | [Download](https://github.com/ramoncunha/Hackintosh-Z390-M-Gaming) |
+
 
 #
 
@@ -42,5 +44,6 @@ Caso queira adicionar sua EFI neste repositório, abra um Pull Request com as al
 | AgenciaKaramello | Notebook Intel 7th | Ideapad 320 - 80YH0001BR | Intel i7 7500U | Intel UHD Graphics 620 | Realtek ALC282 | Intel AC3165 | MacBookPro15,3 | Big Sur ou superiores | 0.7.7 | [Download](https://drive.google.com/drive/folders/1-7Wsxq2fnZ7iBFsXjWL5lKqRm4LaZtQ5?usp=sharing) |
 | [lucioroadtoglory](https://github.com/lucioroadtoglory) | Notebook Intel 7th (Kaby Lake - KBL) | Aspire 5 A515-51-51UX | Intel i5-7200U | Intel HD Graphics 620 | Realtek ALC255 | - | MacBookPro14,1 | Mojave (10.14.6) | 0.7.7 | [Download](https://github.com/lucioroadtoglory/EFI-Hackintosh-i5-7200U) |
 | [darlisalvesamorim](https://github.com/darlisalvesamorim) | Notebook Intel 7th | Lenovo Idealpad S145 | I7-1065G7, 10TH GEN | Intel Iris Plus | - | - | MacBookPro16,2 | Monterey | 0.7.6 | [Download](https://github.com/lucioroadtoglory/EFI-Hackintosh-i5-7200U) |
+
 
 <p align="center"><img src="./Images/dock.png" alt="Dock" width="710" /></p>
