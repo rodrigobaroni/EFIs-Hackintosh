@@ -46,6 +46,7 @@ Caso queira adicionar sua EFI neste repositório, abra um Pull Request com as al
 | AgenciaKaramello | Notebook Intel 7th | Ideapad 320 - 80YH0001BR | Intel i7 7500U | Intel UHD Graphics 620 | Realtek ALC282 | Intel AC3165 | MacBookPro15,3 | Big Sur ou superiores | 0.7.7 | [Download](https://drive.google.com/drive/folders/1-7Wsxq2fnZ7iBFsXjWL5lKqRm4LaZtQ5?usp=sharing) |
 | [lucioroadtoglory](https://github.com/lucioroadtoglory) | Notebook Intel 7th (Kaby Lake - KBL) | Aspire 5 A515-51-51UX | Intel i5-7200U | Intel HD Graphics 620 | Realtek ALC255 | - | MacBookPro14,1 | Mojave (10.14.6) | 0.7.7 | [Download](https://github.com/lucioroadtoglory/EFI-Hackintosh-i5-7200U) |
 | [darlisalvesamorim](https://github.com/darlisalvesamorim) | Notebook Intel 7th | Lenovo Idealpad S145 | I7-1065G7, 10TH GEN | Intel Iris Plus | - | - | MacBookPro16,2 | Monterey | 0.7.6 | [Download](https://github.com/lucioroadtoglory/EFI-Hackintosh-i5-7200U) |
+| [carloslencargorges](https://github.com/carloslencargorges) | Notebook Intel 8th | Lenovo Idealpad 330 | Intel I7-8550U | Intel HD Graphics 620 (integrada) | - | - | MacBookPro14,1 | Big Sur (11.2.3) | 0.7.7 | [Download](https://github.com/lucioroadtoglory/EFI-Hackintosh-i5-7200U) |
 
 
 <p align="center"><img src="./Images/dock.png" alt="Dock" width="710" /></p>
