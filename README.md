@@ -1,8 +1,10 @@
 # EFIs-Hackintosh
 
-# Bem vindo
-
+# Hackintoshers
+Apoio: [HACKINTOSHERS](https://hackintoshers.com.br) </br>
 Olá, Este repositório tem por objetivo juntar todas as EFIs montadas e funcionais para Hackintosh.
+
+
 ## Todas as EFIs encontradas aqui, foram enviadas no  <a href="https://discord.com/invite/VYugKNbUqz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 # Colaboração
