@@ -47,6 +47,7 @@ Caso queira adicionar sua EFI neste repositório, abra um Pull Request com as al
 | [lucioroadtoglory](https://github.com/lucioroadtoglory) | Notebook Intel 7th (Kaby Lake - KBL) | Aspire 5 A515-51-51UX | Intel i5-7200U | Intel HD Graphics 620 | Realtek ALC255 | - | MacBookPro14,1 | Mojave (10.14.6) | 0.7.7 | [Download](https://github.com/lucioroadtoglory/EFI-Hackintosh-i5-7200U) |
 | [darlisalvesamorim](https://github.com/darlisalvesamorim) | Notebook Intel 7th | Lenovo Idealpad S145 | I7-1065G7, 10TH GEN | Intel Iris Plus | - | - | MacBookPro16,2 | Monterey | 0.7.6 | [Download](https://github.com/darlisalvesamorim/UFI-NOTEBOOK---Lenovo-Idealpad-S145--I7-1065G7--Placa-de-Video-Intel-Iris-Plus) |
 | [carloslencargorges](https://github.com/carloslencargorges) | Notebook Intel 8th | Lenovo Idealpad 330 | Intel I7-8550U | Intel HD Graphics 620 (integrada) | - | - | MacBookPro14,1 | Big Sur (11.2.3) | 0.7.7 | [Download](https://github.com/carloslencargorges/EFI-Lenovo-ideapad-330/) |
+| [alebypegasus](https://github.com/alebypegasus) | Notebook Intel 7th | HP 240 G6 | Intel i3 7020U | iGPU Intel UHD 620 | Realtek ALC282 | Intel AC3168 (Funcional) | MacBookPro14,1 | Big Sur e Superiores | 0.7.8 | [Download](https://github.com/alebypegasus/HP240G6) |
 
 
 <p align="center"><img src="./Images/dock.png" alt="Dock" width="710" /></p>
