@@ -35,6 +35,10 @@ Caso queira adicionar sua EFI neste repositório, abra um Pull Request com as al
 | [salsadal](https://github.com/salsadal) | Gigabyte Z590 Gaming X  | Intel i9-11900K ES QV1K, 3400 MHz (8C/16T) | Sapphire RX 6600 XT | Realtek ALC897 | iMac19,2 (nativo) / IMacPro1,1 (PROXMOX) | Monterey (12.2) | 0.7.7 | [Download](https://github.com/valpersam/EFI-X99-MACHINIST-RS9-RX460) |
 | [salsadal](https://github.com/salsadal) | Gigabyte Z370 Aorus Ultra Gaming   | Intel i7-8700K 3700 MHz (6C/12T) | Sapphire Radeon RX 580 | Realtek ALC1220 | iMac19,2 (nativo) / IMacPro1,1 (PROXMOX) | Monterey (12.1) | 0.7.7 | [Download](https://github.com/valpersam/EFI-X99-MACHINIST-RS9-RX460) |
 | [ramoncunha](https://github.com/ramoncunha) | Gigabyte Z390 M Gaming | Intel 9600K | ASUS RX 6600 XT 8GB | Realtek ALC892 codec | iMac19,1 | Monterey (12.1) | 0.7.7 | [Download](https://github.com/ramoncunha/Hackintosh-Z390-M-Gaming) |
+| [elieserme](https://github.com/elieserme) | Gigabyte Z370N WI-FI | Intel i7 8700 | AMD RX6600XT | Realtek ALC1200 codec | MacPro7,1 | Monterey | 0.7.8 | [Download](https://github.com/elieserme/hackintosh) |
+| [eloymlo](https://github.com/eloymlo) | Asus Prime H310M-E R2.0/BR | Intel i5 9600K | Intel UHD Graphics 630 (iGPU) | RealtekRTL8111 | iMac19,1 | Monterey | 0.7.8 | [Download](https://github.com/eloymlo/OC-7.8-EFI-Asus-Prime-H310M-E-R2.0-BR-i5-9600K-iGPU) |
+| [pedrofjr](https://github.com/pedrofjr) | Biostar TB250-BTC | Intel QQLT | Afox RX550 2GB / UHD 630 | Realtek ALC891 | iMac19,2 | Monterey | 0.7.8 | [Download](https://github.com/pedrofjr/EFI-Hackintosh-QQLT) |
+| [cezarmzz](https://github.com/cezarmzz) | B560M Aorus Elite | Intel Core i5 11400 OEM | Gigabyte GTX 760 Windforce 2 OC 2GB GDDR5 | - | MacPro7,1 | BigSur | - | [Download](https://github.com/cezarmzz/EFI-B560M-AORUS-ELITE-I5-11400-GTX760) |
 
 
 #
